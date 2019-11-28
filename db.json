@@ -1,8 +1,12 @@
 {
-"Classic Alfa Tyres":{
-"title":"<h1>Classic Alfa Tyres</h1>"
-},
-"Classic Ferrari Tyres":{
-"title":"<h2>Classic Ferrari Tires</h2>"
-}
+"titles":[
+  {
+    "id":1,
+    "name": "Classic Ferrari Tyres"
+  },
+  {
+    "id":2,
+    "name": "Classic Alfa Romeo Tyres"
+  }
+]
 }
