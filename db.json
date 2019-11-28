@@ -1,11 +1,11 @@
 {
 "titles":[
   {
-    "id":1,
+    "id":"ferrari",
     "name": "Classic Ferrari Tyres"
   },
   {
-    "id":2,
+    "id":"alfa",
     "name": "Classic Alfa Romeo Tyres"
   }
 ]
